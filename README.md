@@ -1,2 +1,5 @@
 # telegram_fxbot
-telegram specifix fx bot every 1 minute 
+
+* need to install : requests, python-telegram-bot
+
+[USD/KRW, KRW/JPY] fx alert bot every 1 minute
